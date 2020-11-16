@@ -1,0 +1,282 @@
+.mainPage{
+  width: 1200px;
+  margin: auto;
+}
+
+nav{
+  width: 1160px;
+  display: flex;
+  justify-content: space-around ;
+  background-color: #003c5a;
+  padding: 20px;
+}
+
+.navlangerba{
+  color:white;
+  font-size: 24px;
+}
+
+.navList a{
+ text-decoration: none;
+ color: white;
+ margin: 0 30px;
+ font-size: 10px;
+}
+
+.navTel{
+  color:white;
+}
+
+.openTheWorld{
+  text-align: center;
+  color: white;
+  background-image: url("../images/page01_img01.png");
+  background-color: #003c5a;
+  padding: 40px 0;
+  height: 600px;
+  background-position: center;
+  background-size: cover;
+}
+
+.openTheWorld h2{
+  margin-bottom: 15px;
+  font-size: 40px;
+}
+
+.openTheWorld p{
+  margin-bottom: 20px;
+}
+
+.openTheWorld button{
+  font-size: 15px;
+  width: 200px;
+  border-radius: 20px;
+  line-height: 25px;
+  background-color: #fa0;
+  color:white;
+}
+
+.study{
+  display: flex;
+  color:black;
+  background-color: #edf4f8;
+}
+
+.study_text_outside{
+  width: 960px;
+  padding: 80px 80px 80px 160px;
+}
+
+.study_text{
+  width: 300px;
+}
+
+.study_text h2{
+  font-size: 30px;
+  margin-bottom: 25px;
+}
+
+.study_text h3{
+  font-size: 25px;
+  margin-bottom: 25px;
+}
+
+.study_text p{
+  margin-bottom: 25px;
+}
+
+.study_text_outside button{
+  font-size: 15px;
+  width: 200px;
+  border-radius: 20px;
+  line-height: 25px;
+  background-color: #fa0;
+  color:white;
+}
+
+.sixLearn{
+  display: flex;
+}
+
+.learnPoint{
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.reasons{
+  text-align: center;
+  padding: 50px;
+  font-size: 25px
+}
+
+.sixLearn h3{
+  font-size: 20px;
+  margin-bottom: 25px;
+  
+}
+
+.text{
+  padding: 0 20px;
+}
+
+
+.starLearn{
+  padding: 50px 150px;
+}
+
+.englishAndEducationAndMusic{
+  width: 50%;
+}
+
+.businessAndTravelAndHarry{
+  width: 50%;
+}
+
+.bookCenter{
+  display: flex;
+  background-color: #eaf2f6;
+}
+
+.bookCenterText h2{
+  font-size: 40px
+}
+
+.bookCenterText h3{
+  font-size: 32px;
+  color: #555555
+}
+
+.bookCenterText p{
+  color:#7d7d7d;
+}
+
+
+.bookCenterText{
+  padding: 0 50px;
+}
+
+
+.freeEmail h2{
+  color:white;
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.freeEmail h3{
+  color:#66b8e0;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.freeEmail{
+  background-color: #003c5a;
+  text-align: center;
+  padding: 100px 0 150px;
+}
+
+.emailSearch{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.emailInput{
+  width: 400px;
+  border-radius: 50px;
+  padding: 15px
+}
+
+.emailButton button{
+  background-color: #fa0;
+  color:white;
+  width: 200px;
+  border-radius: 50px;
+  line-height: 45px;
+}
+
+.emailpadding{
+  padding: 0 20px;
+}
+
+.ourStudent{
+  background-color:#e76e33;
+  text-align: center;
+  color:white;
+  padding: 70px;
+}
+
+.ourStudent h1{
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.ourStudent h2{
+  font-size: 24px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.ourStudent h3{
+  font-size: 16px;
+  margin-bottom: 40px;
+}
+
+.circleList{
+  display: flex;
+  justify-content: center;
+}
+
+.circle{
+  width: 10px;
+  height: 10px;
+  border-radius: 50px;
+  background-color: #aaa;
+  margin-right: 3px;
+}
+
+.circlefirst{
+  background-color: white;
+}
+
+.footernav{
+  display: flex;
+  width: 1160px;
+  justify-content: space-around ;
+  background-color: black;
+  padding: 20px;
+  color: white;
+  border-bottom: 1px solid #aaa;
+}
+
+.footerList a{
+  text-decoration: none;
+  color: white;
+  margin: 0 30px;
+  font-size: 10px;
+}
+
+.fab{
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.footerLangerva{
+  font-size: 24px;
+}
+
+.footer{
+  width: 1200px;
+}
+
+.foottext{
+  background-color: black;
+  color: #aaa;
+  padding: 15px 80px;
+  font-size:10px;
+  line-height: 20px;
+}
+
+
+.footer span{
+  color:white;
+}
